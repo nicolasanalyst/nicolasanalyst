@@ -25,3 +25,5 @@
  <img align="center" alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 
 </div>    
+
+![snake gif](https://github.com/nicolasanalyst/nicolasanalyst/blob/output/github-contribution-grid-snake.svg)
